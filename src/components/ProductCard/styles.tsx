@@ -10,15 +10,13 @@ export const ProductCardStyles = styled.div`
   box-shadow: 0 0 12px -5px;
 }
 
-
-
 .btn-wrapper {
     display: flex;
     justify-content: space-between;
 }
 
 img {
-width: 130px;
+    width: 130px;
     height: 130px;
-    }
+  }
 `

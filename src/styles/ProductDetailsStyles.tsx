@@ -14,9 +14,4 @@ export const ProductDetailsStyles = styled.div`
         }
       }
     }
-
-  img {
-      width: 100%;
-  }
-  
 `;
