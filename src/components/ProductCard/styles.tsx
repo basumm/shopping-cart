@@ -16,4 +16,9 @@ export const ProductCardStyles = styled.div`
     display: flex;
     justify-content: space-between;
 }
+
+img {
+width: 130px;
+    height: 130px;
+    }
 `

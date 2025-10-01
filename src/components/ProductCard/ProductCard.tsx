@@ -35,7 +35,7 @@ const ProductCard: React.FC<Props> = ({ product, showDetailsLink = true }) => {
       <ProductCardStyles>
         <div key={product.id} className={product.className}>
           <h3>{product.title}</h3>
-          <img src={product.image} alt={product.title} />
+          <img className='image-wrapper' src={product.image} alt={product.title} />
           <p>${product.price}</p>
 
           <div className='btn-wrapper'>

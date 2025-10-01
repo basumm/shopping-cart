@@ -1,5 +1,3 @@
-// src/pages/ProductDetailsPage.tsx
-
 import React from 'react';
 import Container from 'react-bootstrap/Container';
 import { useParams } from 'react-router-dom';
